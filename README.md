@@ -8,6 +8,6 @@
 ---------------
 
 
-- _Berriak_: 500 itzulpen zehatz ingelesetik-euskarara, eskuz itzuliak. Corpusa [Librezalen] laguntzari esker sortu da. Librezale euskara informatikaren munduan bultzatzea helburu duen lantalde irekia da. Hau corpusaren lehenengo bertsioa da, etorkizunean itzulpen kopurua handitzea espero dugu.
+- _Berriak_: 500 itzulpen zehatz ingelesetik-euskarara, eskuz itzuliak. Corpusa [Librezale]n laguntzari esker sortu da. Librezale euskara informatikaren munduan bultzatzea helburu duen lantalde irekia da. Hau corpusaren lehenengo bertsioa da, etorkizunean itzulpen kopurua handitzea espero dugu.
 
 [Librezale]: https://librezale.eus/wiki/Zer_da_Librezale%3F
